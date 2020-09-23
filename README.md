@@ -7,4 +7,4 @@ The tasks are divided into four sub-tasks
 - Moodle database schema understanding
 - Data Extraction Transformation and Loading (ETL)
 - Dashboard making with Tableau
-- Automation and Deploymen
+- Automation and Deployment
